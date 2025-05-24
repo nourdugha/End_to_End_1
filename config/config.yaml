@@ -1,0 +1,10 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://github.com/krishnaik06/datasets/raw/refs/heads/main/winequality-data.zip
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
+  use_local_data: false  # Flag to indicate if using local data
+  local_data_path: D:\Data Science\sample_data.csv  # Path to local data file if use_local_data is true
+

@@ -2,3 +2,161 @@
 [2025-05-22 15:54:55,373: INFO: main: Welcome to our custom logging]
 [2025-05-22 15:55:15,475: INFO: main: Welcome to our custom logging]
 [2025-05-22 15:55:27,718: INFO: main: Welcome to our custom logging]
+[2025-05-24 17:13:14,534: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-24 17:13:14,557: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-24 17:16:10,112: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-24 17:16:10,117: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-24 17:16:10,120: INFO: common: yaml_file: schema.yaml loaded successfully]
+[2025-05-24 17:16:10,125: INFO: common: created dir at :artifacts]
+[2025-05-24 17:16:10,128: INFO: common: created dir at :artifacts/data_ingestion]
+[2025-05-24 17:16:11,173: INFO: 251335794: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B654:2F1D52:6866DF:71A31D:6831E2BB
+Accept-Ranges: bytes
+Date: Sat, 24 May 2025 15:16:11 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-eddf8230052-FRA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1748099771.176774,VS0,VE169
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 81557f7e1dc1aec9f650ce133f5c4ac7bc0ebede
+Expires: Sat, 24 May 2025 15:21:11 GMT
+Source-Age: 0
+
+]
+[2025-05-24 18:03:23,755: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-24 18:03:23,757: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-24 18:03:23,761: INFO: common: yaml_file: schema.yaml loaded successfully]
+[2025-05-24 18:03:23,763: INFO: common: created dir at :artifacts]
+[2025-05-24 18:03:23,765: INFO: common: created dir at :artifacts/data_ingestion]
+[2025-05-24 18:03:24,725: INFO: 3785254463: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B654:2F1D52:6866DF:71A31D:6831E2BB
+Accept-Ranges: bytes
+Date: Sat, 24 May 2025 16:03:24 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-eddf8230036-FRA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1748102605.779554,VS0,VE149
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b007b187db3d91c7fc440d7d85749582924f1106
+Expires: Sat, 24 May 2025 16:08:24 GMT
+Source-Age: 0
+
+]
+[2025-05-24 18:03:24,736: INFO: 3785254463: Extracted zip file to: artifacts/data_ingestion]
+[2025-05-24 18:07:26,490: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-24 18:07:26,493: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-24 18:07:26,496: INFO: common: yaml_file: schema.yaml loaded successfully]
+[2025-05-24 18:07:26,498: INFO: common: created dir at :artifacts]
+[2025-05-24 18:07:26,500: INFO: common: created dir at :artifacts/data_ingestion]
+[2025-05-24 18:09:42,013: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-24 18:09:42,016: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-24 18:09:42,019: INFO: common: yaml_file: schema.yaml loaded successfully]
+[2025-05-24 18:09:42,021: INFO: common: created dir at :artifacts]
+[2025-05-24 18:09:42,023: INFO: common: created dir at :artifacts/data_ingestion]
+[2025-05-24 18:11:09,580: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-24 18:11:09,583: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-24 18:11:09,586: INFO: common: yaml_file: schema.yaml loaded successfully]
+[2025-05-24 18:11:09,588: INFO: common: created dir at :artifacts]
+[2025-05-24 18:11:09,591: INFO: common: created dir at :artifacts/data_ingestion]
+[2025-05-24 18:14:20,292: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-24 18:14:20,296: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-24 18:14:20,298: INFO: common: yaml_file: schema.yaml loaded successfully]
+[2025-05-24 18:14:20,301: INFO: common: created dir at :artifacts]
+[2025-05-24 18:14:20,303: INFO: common: created dir at :artifacts/data_ingestion]
+[2025-05-24 18:14:20,310: INFO: 2385702666: Local file copied from D:\Data Science\sample_data.csv to artifacts/data_ingestion/sample_data.csv]
+[2025-05-24 18:18:02,975: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-24 18:18:02,978: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-24 18:18:02,981: INFO: common: yaml_file: schema.yaml loaded successfully]
+[2025-05-24 18:18:02,983: INFO: common: created dir at :artifacts]
+[2025-05-24 18:18:02,985: INFO: common: created dir at :artifacts/data_ingestion]
+[2025-05-24 18:18:02,990: INFO: 1056693144: Local file copied from D:\Data Science\sample_data.csv to artifacts/data_ingestion/sample_data.csv]
+[2025-05-24 18:21:14,002: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-24 18:21:14,006: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-24 18:21:14,008: INFO: common: yaml_file: schema.yaml loaded successfully]
+[2025-05-24 18:21:14,010: INFO: common: created dir at :artifacts]
+[2025-05-24 18:21:14,013: INFO: common: created dir at :artifacts/data_ingestion]
+[2025-05-24 18:21:14,018: INFO: 1056693144: Local file copied from D:\Data Science\sample_data.csv to artifacts/data_ingestion/sample_data.csv]
+[2025-05-24 18:24:24,690: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-24 18:24:24,694: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-24 18:24:24,697: INFO: common: yaml_file: schema.yaml loaded successfully]
+[2025-05-24 18:24:24,699: INFO: common: created dir at :artifacts]
+[2025-05-24 18:24:24,702: INFO: common: created dir at :artifacts/data_ingestion]
+[2025-05-24 18:24:24,708: INFO: 2675815273: Local file copied from D:\Data Science\sample_data.csv to artifacts/data_ingestion/sample_data.csv]
+[2025-05-24 18:27:04,948: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-24 18:27:04,952: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-24 18:27:04,955: INFO: common: yaml_file: schema.yaml loaded successfully]
+[2025-05-24 18:27:04,957: INFO: common: created dir at :artifacts]
+[2025-05-24 18:27:04,959: INFO: common: created dir at :artifacts/data_ingestion]
+[2025-05-24 18:27:04,961: INFO: 2675815273: File already exists]
+[2025-05-24 18:28:44,586: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-24 18:28:44,590: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-24 18:28:44,593: INFO: common: yaml_file: schema.yaml loaded successfully]
+[2025-05-24 18:28:44,595: INFO: common: created dir at :artifacts]
+[2025-05-24 18:28:44,598: INFO: common: created dir at :artifacts/data_ingestion]
+[2025-05-24 18:28:44,603: INFO: 2675815273: Local file copied from D:\Data Science\sample_data.csv to artifacts/data_ingestion/sample_data.csv]
+[2025-05-24 18:31:41,559: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-24 18:31:41,562: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-24 18:31:41,565: INFO: common: yaml_file: schema.yaml loaded successfully]
+[2025-05-24 18:31:41,567: INFO: common: created dir at :artifacts]
+[2025-05-24 18:31:41,569: INFO: common: created dir at :artifacts/data_ingestion]
+[2025-05-24 18:31:41,575: INFO: 993358204: Local file copied from D:\Data Science\sample_data.csv to artifacts/data_ingestion/sample_data.csv]
+[2025-05-24 18:31:41,608: INFO: 993358204: File is not a zip file, using it as is in: artifacts/data_ingestion/sample_data.csv]
+[2025-05-24 18:34:05,256: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-24 18:34:05,260: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-24 18:34:05,263: INFO: common: yaml_file: schema.yaml loaded successfully]
+[2025-05-24 18:34:05,265: INFO: common: created dir at :artifacts]
+[2025-05-24 18:34:05,267: INFO: common: created dir at :artifacts/data_ingestion]
+[2025-05-24 18:34:06,256: INFO: 993358204: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B654:2F1D52:6866DF:71A31D:6831E2BB
+Accept-Ranges: bytes
+Date: Sat, 24 May 2025 16:34:06 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-eddf8230099-FRA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1748104446.323822,VS0,VE185
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 708d5483236cd5791d46fa3239754a27825b10a8
+Expires: Sat, 24 May 2025 16:39:06 GMT
+Source-Age: 0
+
+]
+[2025-05-24 18:34:06,269: INFO: 993358204: Extracted zip file to: artifacts/data_ingestion]
