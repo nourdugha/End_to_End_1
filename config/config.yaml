@@ -8,3 +8,7 @@ data_ingestion:
   use_local_data: false  # Flag to indicate if using local data
   local_data_path: D:\Data Science\sample_data.csv  # Path to local data file if use_local_data is true
 
+data_validation:
+  root_dir: artifacts/data_validation
+  unzip_data_dir: artifacts/data_ingestion/winequality-red.csv
+  STATUS_FILE: artifacts/data_validation/status.txt
