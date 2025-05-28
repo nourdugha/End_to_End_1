@@ -2,6 +2,7 @@ from typing import List
 from src.datascience import logger
 from src.datascience.pipeline.data_ingestion_pipeline import DataIngestionTrainingPipeline
 from src.datascience.pipeline.data_validation_pipeline import DataValidationTrainingPipeline
+from src.datascience.pipeline.data_transformation_pipeline import DataTransformationTrainingPipeline
 
 class Pipeline:
     def __init__(self):
@@ -34,7 +35,13 @@ class Pipeline:
                 "name": "Data Validation Stage",
                 "pipeline": DataValidationTrainingPipeline(),
                 "method": "initiate_data_validation"
+            },
+            {
+                "name": "Data Transformation Stage",
+                "pipeline": DataTransformationTrainingPipeline(),
+                "method": "initiate_data_transformation"
             }
+            
         ]
 
         for stage in stages:
