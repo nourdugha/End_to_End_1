@@ -4,6 +4,8 @@ from src.datascience.pipeline.data_ingestion_pipeline import DataIngestionTraini
 from src.datascience.pipeline.data_validation_pipeline import DataValidationTrainingPipeline
 from src.datascience.pipeline.data_transformation_pipeline import DataTransformationTrainingPipeline
 from src.datascience.pipeline.model_training_pipeline import ModelTrainingPipeline
+from src.datascience.pipeline.model_evaluation_pipeline import ModelEvaluationPipeline
+
 class Pipeline:
     def __init__(self):
         pass
@@ -45,6 +47,11 @@ class Pipeline:
                 "name": "Model Training Stage",
                 "pipeline": ModelTrainingPipeline(),
                 "method": "initiate_model_training"
+            },
+            {
+                "name": "Model Evaluation Stage",
+                "pipeline": ModelEvaluationPipeline(),
+                "method": "initiate_model_evaluation"
             }
         ]
 
